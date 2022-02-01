@@ -1,0 +1,12 @@
+﻿.table{
+    margin-bottom: 60px;
+}
+.header{
+    font-size: 24px;
+    transform: translate(95%);
+}
+
+.rec-header {
+    font-size: 24px;
+    transform: translate(85%);
+}

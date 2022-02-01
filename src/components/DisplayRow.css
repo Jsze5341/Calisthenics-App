@@ -1,0 +1,39 @@
+.tabledesign{
+    font-size: 17px;
+    margin: 10px;    
+    margin-bottom: 24px;
+}
+.chartdesign{
+    font-size: 20px;
+    font-weight: normal;
+    margin: 10px;
+   
+}
+.chartheader{
+    font-weight: bolder;
+    padding: 10px;
+}
+
+    .chartheader:hover {
+        background-color: gray;
+    }
+
+.table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 1000px;
+}
+  
+.table td, .table th {
+    border: 1px solid #ddd;
+    padding: 14px;
+  }
+  
+.table td:hover {background-color: #ddd;}
+  
+.table th {
+    background-color: dimgray;
+    color: white;
+  }
+
+
